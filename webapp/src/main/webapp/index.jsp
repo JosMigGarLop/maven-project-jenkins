@@ -1,1 +1,1 @@
-<h1> Hola CETI: prueba fichero simplificado de José Miguel García López... </h1>
+<h1> Hola CETI: prueba fichero simplificado de Jose Miguel Garcia Lopez... </h1>
